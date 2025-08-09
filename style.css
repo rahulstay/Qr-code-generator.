@@ -42,11 +42,13 @@ body {
     padding: 10px;
     border: 0.001px solid rgb(71, 71, 71);
     border-radius: 5px;
+   
 }
 
 #qrText {
     outline: none;
-    border: none
+    border: none;
+     background-color: white;
 }
 
 .btncon button {
@@ -59,4 +61,8 @@ body {
     font-weight: 200;
     margin-top: 20px;
     color: rgb(78, 78, 78);
+}
+.devnam{
+    font-weight:bold;
+    color: rgb(54, 54, 54);
 }
