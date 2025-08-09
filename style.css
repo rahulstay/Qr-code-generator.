@@ -55,3 +55,8 @@ body {
     border-radius: 5px;
     background: linear-gradient(to right, #83d8ff, #4ec1ff);
 }
+.dev h6{
+    font-weight: 200;
+    margin-top: 10px;
+    color: rgb(78, 78, 78);
+}
